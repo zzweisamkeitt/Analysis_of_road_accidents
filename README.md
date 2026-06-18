@@ -50,7 +50,7 @@
 
 ```
 Python · pandas · scikit-learn · CatBoost · pygam
-SHAP · LIME · matplotlib · scipy
+SHAP · LIME · matplotlib · scipy · geopandas contextily · folium
 ```
 
 ## Структура репозитория
